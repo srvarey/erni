@@ -1,0 +1,7 @@
+model\Client.class
+model\TransactionType.class
+model\Transaction.class
+model\Transaction$1.class
+six\Driver.class
+model\Account.class
+model\AccountStatus.class
